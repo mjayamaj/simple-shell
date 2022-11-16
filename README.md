@@ -1,2 +1,2 @@
 ##
-Simple shell project by Oluwafemi Ajanaku & Majiri Enaye
+# Simple shell project by Oluwafemi Ajanaku & Majiri Enaye
